@@ -1,6 +1,6 @@
 # Dev Mobile
 
-Simples aplicação escrita em React-Native utilizando api https://api.themoviedb.org/.
+Aplicação escrita em React-Native utilizando api https://api.themoviedb.org/.
 
 ### Requisitos
 
