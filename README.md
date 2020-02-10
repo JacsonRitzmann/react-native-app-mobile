@@ -4,11 +4,11 @@ Aplicação escrita em React-Native utilizando api https://api.themoviedb.org/.
 
 ### Objetivo
 Utilizando a ​The Movie DB API produza um aplicativo mobile que liste e traga as informações dos filmes.
-Na página principal, você deve ter as seguintes categorias:
-○ Em cartaz​ (/movie/now_playing)
-○ Populares​ (/movie/popular)
-○ Melhores avaliados​ (/movie/top_rated)
-○ Em breve (​ /movie/upcoming)
+Na página principal, você deve ter as seguintes categorias: 
+- Em cartaz​ (/movie/now_playing)
+- Populares​ (/movie/popular)
+- Melhores avaliados​ (/movie/top_rated)
+- Em breve (​ /movie/upcoming)
 
 ### Requisitos
 
