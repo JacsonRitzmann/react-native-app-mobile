@@ -101,15 +101,15 @@ export default class Detail extends Component {
             {this.state.text}
           </Text>
           <VStudio>
-            <Label>Studio</Label>
+            <Label>Estúdio</Label>
             <TText>{this.state.studio}</TText>
           </VStudio>
           <VGenere>
-            <Label>Genere</Label>
+            <Label>Tipo</Label>
             <TText>{this.state.genres}</TText>
           </VGenere>
           <VRelease>
-            <Label>Release</Label>
+            <Label>Liberação</Label>
             <TText>{this.state.release}</TText>
           </VRelease>
         </Content>
