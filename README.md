@@ -9,7 +9,7 @@ Aplicação escrita em React-Native utilizando api https://api.themoviedb.org/.
 - [react-native-cli](https://facebook.github.io/react-native/) - Aplicação foi testada na versão v2.0.1
 - [react-native](https://facebook.github.io/react-native/) - Aplicação foi testada na versão v0.61.5
 
-Emulador IOS (obs: caso seja emulado para android, pode ser necessario algumas correções de dependencias).
+Emulador IOS (obs: caso seja emulado para android, pode ser necessário algumas correções de dependências).
 
 ## Instalação
 
