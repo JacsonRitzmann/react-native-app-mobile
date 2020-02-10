@@ -44,4 +44,4 @@ Jacson ritzmann - jacson.ritzmann@hotmail.com
 
 Licença
 
-Este projeto está licenciado sob a licença MIT. veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a licença MIT.
