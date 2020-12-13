@@ -31,8 +31,8 @@ Em seguinda o comando `react-native run-ios`
 
 Caso ocorra algum erro, execute o comando `cd ios/ && pod install` e `react-native start --reset-cache`.
 
-![image](https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot1.png){:height="24px" width="48px"}
-![image](https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot2.png){:height="24px" width="48px"}
+<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot1.png" width="400" height="800" />
+<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot2.png" width="400" height="800" />
 
 Versão
 
