@@ -33,8 +33,8 @@ Caso ocorra algum erro, execute o comando `cd ios/ && pod install` e `react-nati
 
 | Tela 1     | Tela 2      |
 |------------|-------------|
-<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot1.png" width="400" height="800" /> |
-<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot2.png" width="400" height="800" />
+|<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot1.png" width="400" height="800" /> |
+<img src="https://github.com/JacsonRitzmann/react-native-app-mobile/blob/master/screenshot2.png" width="400" height="800" /> |
 
 Versão
 
